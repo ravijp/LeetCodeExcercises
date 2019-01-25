@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+"""[We try to merge two dictionaries to obtain a single. Aim is to reduce run time]
+"""
+
+
 __author__ =  "Ravi Prakash"
 
 # Merging two dictionaries
