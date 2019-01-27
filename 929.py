@@ -46,3 +46,4 @@ class Solution:
             em[0] = re.sub(r'[+].*?@','', em[0])
             emails_out.append('@'.join(em))
         return len(set(emails_out))
+        
